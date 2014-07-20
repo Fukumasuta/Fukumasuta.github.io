@@ -1,0 +1,12 @@
+# Site settings
+title: Mon blog rienkamoi
+email: rienkamoi@blog.com
+description: "Un blog que moi seul g fait hihi"
+baseurl: ""
+url: "http://yourdomain.com"
+twitter_username: jekyllrb
+github_username:  jekyll
+
+# Build settings
+markdown: kramdown
+permalink: pretty
